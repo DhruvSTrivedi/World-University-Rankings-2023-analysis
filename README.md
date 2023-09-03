@@ -25,7 +25,7 @@ Before the real action, we prepped our dataset:
 
 1. **Scoreboard Histograms 📊:**
     - Painted the landscape of scores: "OverAll Score", "Teaching Score", "Research Score", "Citations Score", "Industry Income Score", and "International Outlook Score".
-![image](Bar.png)
+![image](bar.png)
 
     **🔍 Insights:**
     - Score scarcity at the top! Few universities touch the zenith.
