@@ -34,7 +34,7 @@ Before the real action, we prepped our dataset:
 
 2. **Country Count Barometer 🌏:**
     - Etched bars representing the top 30 countries, ranked by their university count.
-![image](https://github.com/DhruvSTrivedi/World-University-Rankings-2023-analysis/assets/143839140/60aa2945-d6fd-4541-baf4-dfa97a1bdd46)
+![image](Country Count.png)
 
     **🔍 Insights:**
     - USA stands tall, with the UK, India, and China trailing behind. A testament to their colossal educational infrastructures.
