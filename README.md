@@ -25,7 +25,7 @@ Before the real action, we prepped our dataset:
 
 1. **Scoreboard Histograms 📊:**
     - Painted the landscape of scores: "OverAll Score", "Teaching Score", "Research Score", "Citations Score", "Industry Income Score", and "International Outlook Score".
-![image](https://github.com/DhruvSTrivedi/World-University-Rankings-2023-analysis/assets/143839140/772b3782-4d55-4166-ba62-6891bddcdb4e)
+![image](/bar.png)
 
     **🔍 Insights:**
     - Score scarcity at the top! Few universities touch the zenith.
