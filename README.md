@@ -18,6 +18,7 @@ Before the real action, we prepped our dataset:
 2. **Dissecting Ratios 🔪:** 
     - Sliced and diced the 'Female:Male Ratio' to extract individual gender counts.
     - Birthed a numeric ratio for a more analytical touch.
+![Bar](QS_IMAGES/bar.png)
 
 ---
 
@@ -25,7 +26,7 @@ Before the real action, we prepped our dataset:
 
 1. **Scoreboard Histograms 📊:**
     - Painted the landscape of scores: "OverAll Score", "Teaching Score", "Research Score", "Citations Score", "Industry Income Score", and "International Outlook Score".
-![image](bar.png)
+
 
     **🔍 Insights:**
     - Score scarcity at the top! Few universities touch the zenith.
@@ -34,14 +35,14 @@ Before the real action, we prepped our dataset:
 
 2. **Country Count Barometer 🌏:**
     - Etched bars representing the top 30 countries, ranked by their university count.
-![image](Country Count.png)
+![image](QS_IMAGES/barometer.png)
 
     **🔍 Insights:**
     - USA stands tall, with the UK, India, and China trailing behind. A testament to their colossal educational infrastructures.
 
 3. **Gender Balance Pie 🚻:**
     - A pie sliced to represent the gender equilibrium across universities.
-![image](https://github.com/DhruvSTrivedi/World-University-Rankings-2023-analysis/assets/143839140/072803de-fe7f-4263-bad8-c26ef32ad4d2)
+![image](QS_IMAGES/pie.png)
 
     **🔍 Insights:**
     - The scales balance out at many universities. Gender equality is in sight!
@@ -50,7 +51,7 @@ Before the real action, we prepped our dataset:
 
 4. **Score Correlation Heatmap 🔥:**
     - A warm heatmap radiating the intricate relationships between performance metrics.
-    ![image](https://github.com/DhruvSTrivedi/World-University-Rankings-2023-analysis/assets/143839140/af4a94b4-b8af-4c33-bb27-b456b9d488d0)
+    ![image](QS_IMAGES/heatmap.png)
 
     **🔍 Insights:**
     - "Teaching" and "Research"? They're best pals with "OverAll Score".
